@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #14171b;
   overflow-y: auto;
 }
 
@@ -242,7 +242,7 @@ h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
-  background-size: cover;
+  background-size:80%;
 }
 
 #hero:before {
